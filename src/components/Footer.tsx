@@ -1,5 +1,3 @@
-import { BookOpen } from 'lucide-react';
-
 const Footer = () => {
   return (
     <footer className="text-center py-8 font-heading text-sm text-slate-500 border-t border-slate-100">
