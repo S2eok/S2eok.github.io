@@ -6,7 +6,7 @@ const Hero = () => {
         <p className="font-heading text-sky-600 font-medium text-lg md:text-xl mb-3 tracking-wide">안녕하세요, 저는</p>
         
         <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-8 text-slate-900 tracking-tight">
-          백엔드 개발자 OOO
+          백엔드 개발자 석주연
         </h1>
         
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-800 mb-8 leading-tight tracking-tight mt-6">

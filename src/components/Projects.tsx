@@ -29,7 +29,7 @@ const projectData = [
       </>
     ),
     techs: ['Spring Boot', 'Redis Queue', 'WebSocket/STOMP', 'JWT'],
-    award: 'SSAFY 공통 프로젝트 우수상 (3등)',
+    award: 'SSAFY 공통 프로젝트 우수상',
     github: '#',
     link: '#'
   },
